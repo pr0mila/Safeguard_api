@@ -8,3 +8,6 @@ Specifications:
 2. Easy to integrate 
 3. Easy to make any chatbot at messenger, twitter, skype etc.
 4. Easy to understand
+
+Small talks
+![1](https://user-images.githubusercontent.com/39271244/42658436-20400056-8647-11e8-98bd-8e912ad666a5.png)
