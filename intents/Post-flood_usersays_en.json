@@ -1,0 +1,48 @@
+[
+  {
+    "id": "e55db007-3610-4b15-a657-d13c6306c6de",
+    "data": [
+      {
+        "text": "flood",
+        "alias": "Diseaster",
+        "meta": "@Diseaster",
+        "userDefined": false
+      },
+      {
+        "text": " is gone what will do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1531423499
+  },
+  {
+    "id": "75f499d3-e862-48bc-811b-2bc99b4824a1",
+    "data": [
+      {
+        "text": "flood",
+        "alias": "Diseaster",
+        "meta": "@Diseaster",
+        "userDefined": false
+      },
+      {
+        "text": " is gone. what should I do ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "alias": "Time",
+        "meta": "@Time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531423499
+  }
+]

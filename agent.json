@@ -1,0 +1,48 @@
+{
+  "description": "\"Safeguard\"-Let\u0027s keep our life safe. \"Safeguard\" is an API that will *help people  to save them by providing the information about how *they can be safe at any previous disaster period, disaster period and post disaster period. It will also able to give  *suggestions about first aid to victims.\nSpecifications:\n1. Free API\n2. Easy to integrate \n3. Easy to make any chatbot at messenger, twitter, skype etc.\n4. Easy to understand",
+  "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "safeguard-829d8",
+    "welcomeIntentSignInRequired": true,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "ac448b2b-f42a-4c21-ac98-db7893165356",
+      "e17fe76c-54af-4900-879f-0766ca7539c5",
+      "9c631ba5-5338-48bc-9b7c-f9ac3cb5ab76"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Almaty",
+  "webhook": {
+    "url": "https://bots.dialogflow.com/facebook/6dfeebc0-3fb6-4ff8-aeab-90119870f6eb/webhook",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false
+}

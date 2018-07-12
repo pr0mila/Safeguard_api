@@ -1,0 +1,47 @@
+{
+  "id": "ac448b2b-f42a-4c21-ac98-db7893165356",
+  "name": "Pre-flood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bf543439-7a67-40dd-aa7e-ffca27b7fae4",
+          "required": false,
+          "dataType": "@Diseaster",
+          "name": "Diseaster",
+          "value": "$Diseaster",
+          "isList": false
+        },
+        {
+          "id": "4acc522c-4376-4d0c-a3a0-4923195ded21",
+          "dataType": "@Time",
+          "name": "Time",
+          "value": "$Time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please don\u0027t be upset. Keep patience. Firstly, you need to keep dry foods so that you can get them after flood.  Secondly, Then search the shelter which is provided by government. Finally, with you pet animal go to safe place.",
+            "Firstly, you need to keep dry foods so that you can get them after flood.  Secondly, Then search the shelter which is provided by government. Finally, with you pet animal go to safe place."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531422882,
+  "fallbackIntent": false,
+  "events": []
+}

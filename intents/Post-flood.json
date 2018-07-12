@@ -1,0 +1,43 @@
+{
+  "id": "9c631ba5-5338-48bc-9b7c-f9ac3cb5ab76",
+  "name": "Post-flood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b8a438eb-4361-4381-9b13-88b7490f5e60",
+          "dataType": "@Diseaster",
+          "name": "Diseaster",
+          "value": "$Diseaster",
+          "isList": false
+        },
+        {
+          "id": "17867fe5-974a-4dfe-abbe-a9d79648849c",
+          "dataType": "@Time",
+          "name": "Time",
+          "value": "$Time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Don\u0027t loss your hope. Now try to drink boiled water. Contact your local authority for relief goods."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531423499,
+  "fallbackIntent": false,
+  "events": []
+}

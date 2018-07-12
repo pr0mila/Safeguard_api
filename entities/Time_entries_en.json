@@ -1,0 +1,29 @@
+[
+  {
+    "value": "Pre",
+    "synonyms": [
+      "Pre",
+      "pre",
+      "previous",
+      "before",
+      "is coming"
+    ]
+  },
+  {
+    "value": "post",
+    "synonyms": [
+      "post",
+      "after",
+      "going"
+    ]
+  },
+  {
+    "value": "at",
+    "synonyms": [
+      "at",
+      "now",
+      "At",
+      "at present"
+    ]
+  }
+]

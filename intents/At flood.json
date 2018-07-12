@@ -1,0 +1,31 @@
+{
+  "id": "e17fe76c-54af-4900-879f-0766ca7539c5",
+  "name": "At flood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Don\u0027t worry. Go to your near shelter house. contact with relief team.",
+            "Go to your near shelter house. contact with relief team."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531423255,
+  "fallbackIntent": false,
+  "events": []
+}

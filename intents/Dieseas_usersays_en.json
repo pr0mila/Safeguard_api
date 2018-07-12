@@ -1,0 +1,70 @@
+[
+  {
+    "id": "b891a86a-029c-4426-b5b6-639419a7baa0",
+    "data": [
+      {
+        "text": "diarrhoea",
+        "alias": "Disease",
+        "meta": "@Disease",
+        "userDefined": false
+      },
+      {
+        "text": ".What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531423852
+  },
+  {
+    "id": "51f44f9d-9475-48ec-bb80-bd2aefdcd86a",
+    "data": [
+      {
+        "text": "diarrhoea",
+        "alias": "Disease",
+        "meta": "@Disease",
+        "userDefined": false
+      },
+      {
+        "text": " what should I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531423852
+  },
+  {
+    "id": "c5aec738-37b4-4a09-b3cf-3caccca521ce",
+    "data": [
+      {
+        "text": "diarrhoea",
+        "alias": "Disease",
+        "meta": "@Disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531423852
+  },
+  {
+    "id": "9e7d9d32-5382-49fa-a2c4-3bf88ebf6cad",
+    "data": [
+      {
+        "text": "I am suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "Disease",
+        "meta": "@Disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1531423852
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "5f2eb374-63c6-4427-9d8b-9de6a29bdce1",
+  "name": "Dieseas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ebf03d8c-56a4-454e-9ebb-2018f8a437db",
+          "required": false,
+          "dataType": "@Disease",
+          "name": "Disease",
+          "value": "$Disease",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Have saline. If saline is not available  please Put one cup of water and ½ teaspoon of salt into the pot. Put the lid on.\nBoil for 15 minutes with the lid on (set a timer).\nSet the pan aside until cooled to a room temperature and mix two table spoon sugar. Then drink it."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531423925,
+  "fallbackIntent": false,
+  "events": []
+}
